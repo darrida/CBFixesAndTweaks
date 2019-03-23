@@ -46,5 +46,3 @@ echo "Remapped top row media keys"
 
 ## reboot
 echo "*******************************************************"
-read -p "Your Chromebook will now reboot! Press any key to continue..."
-sudo shutdown -r now
